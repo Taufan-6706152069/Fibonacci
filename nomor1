@@ -1,16 +1,7 @@
 package fibonacci;
-
 import java.util.Scanner;
 
-/**
- *
- * @author Praktikan
- */
 public class Fibonacci {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner show = new Scanner(System.in);
         System.out.print("Masukkan Jumlah Deret Fibonaci : ");
